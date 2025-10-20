@@ -20,4 +20,4 @@ def update(index):
     helper.update(index)
     return redirect(url_for("index"))
     
-print("HZ4 Test erfolgreich")
+print("Handlungsziel 4 erfolgreich abgeschlossen")
