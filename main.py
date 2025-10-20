@@ -19,3 +19,5 @@ def add():
 def update(index):
     helper.update(index)
     return redirect(url_for("index"))
+
+print("HZ4 Merge Test erfolgreich")
